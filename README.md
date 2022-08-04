@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahsanhafeez13
-- 👀 I’m interested in Javascript, Solidity, Blockchain, Smart Contracts, Defi Wallet, DAPP Development, Tokenization.
-- 🌱 I’m currently learning Blockchain.
+- 👀 I’m interested in Javascript, Blockchain(Soilidity, Smart Contracts, Defi Wallet, DAPP Development, Tokenization).
+- 🌱 I’m currently working on few Smart contracts.
 - 💞️ I’m looking to collaborate with Blockchain Community.
 
 <!---
